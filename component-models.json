@@ -212,7 +212,14 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
-      }
+      },
+        {
+          "component": "richtext-demo",
+          "name": "text",
+          "value": "",
+          "label": "Text-demo-text",
+          "valueType": "string"
+        }
     ]
   }
 ]
